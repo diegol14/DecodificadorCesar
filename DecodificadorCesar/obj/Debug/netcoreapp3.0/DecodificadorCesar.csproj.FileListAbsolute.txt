@@ -1,0 +1,11 @@
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.exe
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.deps.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.runtimeconfig.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.runtimeconfig.dev.json
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.dll
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\bin\Debug\netcoreapp3.0\DecodificadorCesar.pdb
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\obj\Debug\netcoreapp3.0\DecodificadorCesar.AssemblyInfoInputs.cache
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\obj\Debug\netcoreapp3.0\DecodificadorCesar.AssemblyInfo.cs
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\obj\Debug\netcoreapp3.0\DecodificadorCesar.dll
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\obj\Debug\netcoreapp3.0\DecodificadorCesar.pdb
+C:\Users\Diegol\Desktop\Pac_UF2_Pereira_Sotelo_Diego-Leonel\DecodificadorCesar\DecodificadorCesar\obj\Debug\netcoreapp3.0\DecodificadorCesar.csprojAssemblyReference.cache
